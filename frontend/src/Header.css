@@ -1,0 +1,22 @@
+
+nav {
+    display: flex;
+    justify-content: space-between;
+
+    padding: 20px;
+}
+
+#title {
+    font-weight: bold;
+}
+
+.header-button {
+    margin: 5px;
+    cursor: pointer;
+}
+
+.header-button:hover {
+    text-decoration: underline;
+    /* text-shadow:0px 0px 1px black; */
+    text-shadow:1px 0px 0px black;
+}
